@@ -29,10 +29,10 @@ releases:
 -   releaseCycle: "17"
     releaseDate: 2023-09-18
     eoas: 2024-09-16
-    eol: 2024-11-19
-    latest: "17.7.2"
-    latestReleaseDate: 2024-11-19
-    link: https://support.apple.com/en-us/118723
+    eol: 2025-05-19
+    latest: "17.7.8"
+    latestReleaseDate: 2025-05-19
+    link: https://support.apple.com/en-us/100100
 
 -   releaseCycle: "16"
     releaseDate: 2022-09-12
